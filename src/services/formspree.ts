@@ -1,7 +1,7 @@
 export type SubmissionStatus = 'idle' | 'loading' | 'success' | 'error';
 
 export async function submitToFormspree(payload: Record<string, string | boolean | null | undefined>) {
-  const endpoint = import.meta.env.VITE_FORMSPREE_ENDPOINT;
+  const endpoint = import.meta.env.example.VITE_FORMSPREE_ENDPOINT;
   if (!endpoint) {
     throw new Error('Formspree is not configured.');
   }
