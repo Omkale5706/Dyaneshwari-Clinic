@@ -10,8 +10,8 @@ export type DoctorProfile = {
 
 export const clinic = {
   name: 'DYANESHWARI CLINIC',
-  phone: '8983989814',
-  whatsapp: '8983989814',
+  phone: '+918983989814',
+  whatsapp: '+918983989814',
   email: 'drpravinmohite.dycc@gmail.com',
   address: 'Dyaneshwari Clinic, Moraya Nagar, Pune, Maharashtra',
   mapUrl: 'https://www.google.com/maps/search/Dyaneshwari+Clinic/@18.6456679,73.8897402,15.13z',
