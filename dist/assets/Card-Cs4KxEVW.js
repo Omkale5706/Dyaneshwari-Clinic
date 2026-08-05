@@ -1,0 +1,1 @@
+import{j as s,g as t}from"./index-DQIifHxU.js";function d({className:r,...o}){return s.jsx("div",{className:t("card-ui rounded-3xl border border-white/70 bg-white/80 p-5 shadow-soft backdrop-blur-xl transition duration-300 sm:p-6",r),...o})}export{d as C};
